@@ -1,6 +1,6 @@
 # ***INSTALACIÓN LAMP EN UBUNTU***
 ## Antes de empezar, debemos instalar **apache2** y **PHP**.
-![](img/1.PNG)
+![](IMG/1.PNG)
 ![](img/2.PNG)
 ## Editamos el fichero *000-default.conf*, que sirve para crear el sitio web.
 ![](img/3.PNG)
